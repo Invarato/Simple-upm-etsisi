@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         ivo.setImageBitmap(BitmapFactory.decodeResource( getResources(), rdrawalble));
 
         Bitmap bm = BitmapFactory.decodeResource( getResources(), rdrawalble);
-        
+
 
         Bitmap nbm = new Filtros(this, bm)
                 //.escalaDeGrises(0.30f,0.59f,0.11f)
