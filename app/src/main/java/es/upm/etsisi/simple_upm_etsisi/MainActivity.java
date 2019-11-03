@@ -52,7 +52,42 @@ public class MainActivity extends AppCompatActivity {
 //                .moreNeighborhood(10)
 //                .prewitt()
 //                .sepia()
-                .solarizar()
+//                .solarizar()
+
+
+//                .blancoNegro(128)
+//                .brillo(100)
+//                .contraste(200)
+//                .escalaDeGrisesHDTV()
+//                .escalaDeGrisesMedia()
+//                .gradiente()
+//                .invertir()
+//                .laplaciana()
+//                .mediana()
+//                .pasoAlto()
+//                .pasoBajo()
+//                .posterizar(70)
+//                .prewitt()
+//                .roberts()
+//                .sepia()
+//                .sobel()
+//                .solarizar()
+
+
+//                .blancoNegro(128)
+
+//                .brillo(100)
+//                .contraste(200)
+//                .escalaDeGrisesMedia()
+
+//                .invertir()
+//                .posterizar(70)
+//                .prewitt()
+//                .roberts()
+                .sepia()
+//                .sobel()
+//                .solarizar()
+
                 .getBitmapProcessed();
 
 

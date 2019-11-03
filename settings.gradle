@@ -1,2 +1,2 @@
-include ':app', ':app-release', ':es-upm-etsisi-imagefilter'
+include ':app', ':es-upm-etsisi-imagefilter'
 rootProject.name='Simple-upm-etsisi'
