@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
 //                .roberts()
 //                .sepia()
 //                .sobel()
-//                .solarizar()
+                .solarizar()
 
 
 //                .blancoNegro(128)
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
 //                .posterizar(70)
 //                .prewitt()
 //                .roberts()
-                .sepia()
+//                .sepia()
 //                .sobel()
 //                .solarizar()
 
